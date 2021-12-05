@@ -9,3 +9,4 @@ Modules used so far:
 + time
 + unittest
 + pytest
++ pytest-rerunfailures
