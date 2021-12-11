@@ -19,3 +19,4 @@ class ProductPageLocators():
     ADDED_ITEM_NAME = (By.CSS_SELECTOR, '#messages div:nth-child(1) strong')
     ITEM_COST = (By.CSS_SELECTOR, '.col-sm-6 p.price_color')
     ADDED_ITEM_COST = (By.CSS_SELECTOR, '#messages div:nth-child(3) strong')
+    SUCCESS_MESSAGE = (By.CSS_SELECTOR, '#messages div:nth-of-type(2)')
