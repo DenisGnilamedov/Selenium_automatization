@@ -8,7 +8,7 @@ class BasePageLocators():
 
 
 class BasketPageLocators():
-    BASKET_IS_EMPTY = (By.CSS_SELECTOR, '#content_inner>p')
+    BASKET_IS_EMPTY = (By.CSS_SELECTOR, '#content_inner>p5')
     ITEM_IN_BASKET = (By.CLASS_NAME, 'basket-title')
 
 
